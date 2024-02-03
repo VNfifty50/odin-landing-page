@@ -126,6 +126,7 @@ h3 {
 
 .innerBox {
     display: flex;
+    justify-content: space-between;
     align-items: baseline;
     background-color: #3882f6;
     margin: 50px 200px;
